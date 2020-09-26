@@ -5,7 +5,7 @@ Amirmohammad Eghbalian, Shahrooz Abghari, Veselka Boeva, and Farhad Basiri. "Mul
 ## Abstract
 
 In this study, we propose a multi-view data analysis approach that can be used for modelling and monitoring smart control valve system behaviour.  
-The proposed approach consists of four distinctive steps: (i) multi-view interpretation of the available data attributes by separating them into severalrepresentations (views), 
+The proposed approach consists of four distinctive steps: (i) multi-view interpretation of the available data attributes by separating them into several representations (views), 
 e.g., operational parameters, contextual factors, and performance indicators; 
 (ii) modelling different control valve system operating modes by clustering analyses of the operational data view;  
 (iii) annotating each operating mode (cluster) by using the remaining views (i.e., contextual and system performance data); 
