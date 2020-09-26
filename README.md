@@ -2,7 +2,7 @@ The following code is used to conduct the experiment for paper: "Multi-view Data
 
 Amirmohammad Eghbalian, Shahrooz Abghari, Veselka Boeva, and Farhad Basiri. "Multi-view Data Mining Approach for Behaviour Analysis of Smart Control Valve". In 2020 19TH International Conference on Machine Learning and Applications
 
-Abstract
+##Abstract
 
 In this study, we propose a multi-view data analysis approach that can be used for modelling and monitoring smart control valve system behaviour.  
 The proposed approach consists of four distinctive steps: (i) multi-view interpretation of the available data attributes by separating them into severalrepresentations (views), 
